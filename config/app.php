@@ -64,7 +64,7 @@ return [
      *   You should treat it as extremely sensitive data.
      */
     'Security' => [
-        'salt' => env('SECURITY_SALT', '__SALT__'),
+        'salt' => env('SECURITY_SALT', 'b469510c8fbb4ac2a757ecd6df40368d17b59b6d6be9a436b9b1e36670349351'),
     ],
 
     /**
@@ -227,7 +227,7 @@ return [
              */
             //'port' => 'non_standard_port_number',
             'username' => 'root',
-            'password' => '',
+            'password' => '123456',
             'database' => 'webbanhang_tien',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
