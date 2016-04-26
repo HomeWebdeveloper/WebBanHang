@@ -1,0 +1,7 @@
+logs/apache_error.log
+logs/apache_requests.log
+logs/error.log
+tmp/debug_kit.sqlite
+tmp/bake/add-ctp.php
+tmp/bake/
+tmp/cache/
